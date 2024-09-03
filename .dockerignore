@@ -3,3 +3,11 @@
 **\.vscode
 src\__pycache__
 fly.toml
+
+# venv folders
+env
+venv
+
+# git-related content
+.gitignore
+.git

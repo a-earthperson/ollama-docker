@@ -1,6 +1,7 @@
 .dist
 /src/__pycache__
 venv/
+env/
 ollama/
 *.gguf
 *.ggml
